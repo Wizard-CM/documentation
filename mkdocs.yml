@@ -46,3 +46,5 @@ nav:
   - About:
       - about Nepal: about/aboutNep.md
       - about Me: about/aboutMe.md
+  - School:
+      - about my school: school/schooling.md
