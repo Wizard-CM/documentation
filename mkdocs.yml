@@ -36,8 +36,8 @@ theme:
     # - navigation.tabs
     # - navigation.tabs.sticky
 
-plugins:
-    - blog
+# plugins:
+#     - blog
 
 nav:
   - Home: index.md
